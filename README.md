@@ -1,5 +1,5 @@
 # Conflict-Resolution
 
-## New Sub-Heading
+## This is a subheading created on GitHub
 
-Some text
+  All of this content added to the readme file has been added from my remote GitHub repository.
